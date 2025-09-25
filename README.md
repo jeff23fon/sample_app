@@ -29,6 +29,8 @@ How to push to GitHub
 Notes
 - Replace `<your-username>` and `<repo-name>` with your GitHub username and desired repo name.
 - If you use SSH, use the SSH remote URL instead of HTTPS.
+
+Extra Notes
 https://docs.astral.sh/uv/getting-started/features/#python-versions
 curl -LsSf https://astral.sh/uv/install.sh | sh
 uv -V
